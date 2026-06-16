@@ -8,7 +8,6 @@ A complete, high-fidelity, professional browser-based game designed to test and 
 
 ## 🕹️ Live Demo
 👉 **[Play Time Master Challenge Live Here!](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/)**
-*(Note: Replace this link with your actual GitHub Pages URL!)*
 
 ---
 

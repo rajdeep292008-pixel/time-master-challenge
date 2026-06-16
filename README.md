@@ -7,7 +7,7 @@ A complete, high-fidelity, professional browser-based game designed to test and 
 ---
 
 ## 🕹️ Live Demo
-👉 **[Play Time Master Challenge Live Here!](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/)**
+👉 **[Play Time Master Challenge Live Here!](https://rajdeep292008-pixel.github.io/time-master-challenge/)**
 
 ---
 
@@ -67,22 +67,6 @@ The internal achievement pipeline monitors runtime parameters continuously to fl
 
 ---
 
-## 🛠️ Development & Local Environment Deployment
-
-Since the game requires absolutely no external dependencies or bundle compilers, managing development runs locally is perfectly straightforward.
-
-1. Clone this repository locally to your computer:
-```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
-
-2. Navigate directly to the directory and run it inside your browser framework:
-
-cd YOUR-REPOSITORY-NAME
-   open index.html
-
 📄 License
 This repository is distributed and maintained under the permissive MIT License. Check out the accompanying LICENSE document file inside the root repository directory for additional details.
 
-## ⚙️ Technical Blueprint Architecture
-
-The codebase is engineered strictly around clean, decoupled, structural object-oriented modules separating distinct domain responsibilities:
